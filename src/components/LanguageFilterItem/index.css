@@ -1,0 +1,28 @@
+.filter-item {
+  list-style-type: none;
+}
+
+.filter-item-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.language-text {
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: bold;
+  color: #0f172a;
+}
+.active-className {
+  border: solid 1px #0284c7;
+  border-radius: 6px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.active-button {
+  color: #0284c7;
+}

@@ -1,0 +1,36 @@
+.filterItem-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-left: 0px;
+}
+.repositoryList-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+  flex-wrap: wrap;
+}
+.failure-image {
+  height: 350px;
+  width: 250px;
+}
+
+.main-heading {
+  font-family: 'Lobster';
+  color: #0f172a;
+  font-size: 20px;
+  text-align: center;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
